@@ -1,0 +1,38 @@
+
+srini.msk@gmail.com
+
+got to root
+
+
+/////
+create directory with initilizing---- git init directory_name
+
+////
+
+
+go to taht directory using----  cd directory_name
+create a file in that directory gedit File_name,  write, save and exit
+
+for ur query type --- git status
+
+
+
+add file to the index--- git add file_name
+
+
+for ur query type --- git status
+
+
+comiit this file to head---- git commit -m "any message"
+
+or
+/////
+"
+if it is first time then add the remote link using this command---- git remote add origin "link" 
+/////
+or
+
+type command -----git push origin master
+
+then got o github and check
+
